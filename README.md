@@ -1,10 +1,12 @@
 # Preppin_Data-2023-Week-1-The-Data-Source-Bank
 
-#### Link to Challenge
+![image](https://github.com/JP852/Preppin-Data-2023-Week-1-The-Data-Source-Bank/assets/142391590/aa9fe063-1f72-4bbb-b2cd-f5fb988cd87f)
+
+## Link to Challenge
 
 https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html
 
-#### SQL Techniques Used
+## SQL Techniques Used
 
 - Aggregation
 - Group By
